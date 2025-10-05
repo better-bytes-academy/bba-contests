@@ -44,11 +44,9 @@ Mọi đóng góp của bạn đều được ghi nhận và sử dụng minh b�
 
 ## Danh sách các contest
 
-<!-- | STT | Tên Contest | Thời gian | Mô tả | Link |
-|-----|-------------|-----------|-------|------|
-| 1 | Contest #1 | [Thời gian] | [Mô tả ngắn] | [Link đến thư mục] |
-| 2 | Contest #2 | [Thời gian] | [Mô tả ngắn] | [Link đến thư mục] |
-| 3 | Contest #3 | [Thời gian] | [Mô tả ngắn] | [Link đến thư mục] | -->
+| STT | Tên Contest | Thời gian | Link |
+|-----|-------------|-----------|------|
+| 1 | Contest #1: Login form | 06/10/2025 | [Link](https://go.betterbytesvn.com/BBA-contest-01) |
 
 *Danh sách sẽ được cập nhật liên tục khi có contest mới*
 
@@ -79,7 +77,7 @@ Tất cả các bài thi trong repository này được **public** và cộng đ
 
 Nếu có bất cứ vấn đề gì liên quan đến nội dung hoặc bản quyền, vui lòng liên hệ trực tiếp tới **Better Bytes Academy** để được hỗ trợ và xử lý.
 
-- **Email:** [mailto:betterbytes.academy@gmail.com](betterbytes.academy@gmail.com) 
+- **Email:** [betterbytes.academy@gmail.com](mailto:betterbytes.academy@gmail.com) 
 - **Facebook:** [Fanpage Playwright Việt Nam](https://www.facebook.com/playwrightvietnam/)
 - **Website:** https://academy.betterbytesvn.com/
 
